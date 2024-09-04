@@ -58,3 +58,4 @@ print(d)
 #Save the result
 
 np.save("div_by_3.npy", d)
+
